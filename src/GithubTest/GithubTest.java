@@ -2,7 +2,7 @@ package GithubTest;
 /**
  * 
  * @author 	Hee-Chan, Yang
- * @version	0.0.0
+ * @version	0.0.1
  *
  */
 public class GithubTest {
